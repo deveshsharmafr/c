@@ -1,8 +1,4 @@
-/*
- *  if from 500 we get =  t 
- *           1         = t/500
- *           100       =  t/5
- */
+
 #include<stdio.h>
 
 int main()
